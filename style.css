@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+*{
+    text-align: center;
+}
+body{
+    background-color: aquamarine;
+}
+h1{
+    font-size: 50px;
+}
+section#desres{
+    background-color:aliceblue;
+    border-radius: 20px;
+    height: 500px;
+    max-width: 500px;
+    margin: auto;
+}
+h2{
+    font-size: 30px;
+    padding-top: 10px;
+}
+ul{
+    font-size: 30px;
+    padding: 0px;
+}
+li{
+    text-align: center;
+    list-style: none;
+}
