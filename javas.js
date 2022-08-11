@@ -42,6 +42,8 @@ limp.addEventListener('click', function(e){
     for(let cont = 0; cont < 10; cont ++){
          lis[cont].remove()
     }
+
+    n.value = ''
     
     //retorna false para que possa adicionar nova tabuada
     test = false;
